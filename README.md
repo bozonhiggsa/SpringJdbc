@@ -4,7 +4,8 @@ Basic examples for Spring Jdbc, using JdbcTemplate and DB MySQL
 
 Technologies:
 - Java 8
-- Spring IoC
+- Spring Jdbc
+- MySQL
 
 Prerequisites:
 - Maven 3
